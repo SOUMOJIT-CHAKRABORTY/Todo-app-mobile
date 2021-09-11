@@ -1,0 +1,34 @@
+.Main-container{
+    margin: 10%;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.Header{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    margin-bottom: 20%;
+    letter-spacing: 1px;
+}
+
+.Header-tasks{
+
+}
+
+.Header-lists{
+    margin-left: -10px;
+}
+.cards{
+    margin-bottom: 10%;
+    border: 1px solid #888888;
+    height: 40px;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 3px #888888;
+
+}
