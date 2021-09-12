@@ -11,7 +11,14 @@
     font-size: 30px;
     margin-bottom: 20%;
     letter-spacing: 1px;
+    
 
+}
+
+.text{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    
 }
 
 .Icon{
@@ -23,12 +30,13 @@
 }
 
 .card{
-    border: 2px solid #888888;
+    border: 2px solid rgb(252, 42, 84);
     border-radius: 10px;
-    height: 450px;
-    box-shadow: 5px 6px #888888;
+    height: 400px;
+    box-shadow: 5px 6px 15px #888888;
     margin-left: 30px;
     position: relative;
+    
     
 }
 .hr{
