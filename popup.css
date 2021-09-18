@@ -58,6 +58,7 @@
 .popup{
     background: #ffff;
     text-align: center;
+    align-items: center;
     border: 1px solid red;
     border-radius: 12px;
     padding: 20px;
@@ -65,10 +66,7 @@
     position: absolute;
     height: 180px;
     width: 300px;
-    top: 250px;
-    right: 200px;
-    left: 10px;
-    bottom: 100px;
+    bottom: 250px;
     box-shadow: 6px 5px 10px grey;
 }
 
